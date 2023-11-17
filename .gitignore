@@ -20,10 +20,10 @@ local.properties
 .settings/
 .loadpath
 
-task1/demo-rest-api
-task1/service-a
-task1/service-b
-task2/anime-rest-api/
+//task1/demo-rest-api
+./task1/service-a
+./task1/service-b
+./task2/anime-rest-api/
 
 # External tool builders
 .externalToolBuilders/
