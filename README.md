@@ -8,6 +8,7 @@
  - Zipkin server(attached jar file inside task2 folder)
     - start the server  : ```java -jar zipkin-server-2.12.9-exec.jar```
     - zipikin UI : ```http://localhost:9411/zipkin/```
+ - Based on the Ide, use or change config files
 
 
 
