@@ -1,0 +1,11 @@
+com\centime\demorestapi\aspects\ExceptionHandlingAspect.class
+com\centime\demorestapi\entity\RequestWSO.class
+com\centime\demorestapi\aspects\CustomException.class
+com\centime\demorestapi\config\CustomConfiguration.class
+com\centime\demorestapi\DemoRestApiApplication.class
+com\centime\demorestapi\controller\DemoController.class
+com\centime\demorestapi\aspects\LogMethodParam.class
+com\centime\demorestapi\service\DemoService.class
+com\centime\demorestapi\aspects\LoggingAspect.class
+com\centime\demorestapi\service\DemoServiceImpl.class
+com\centime\demorestapi\controller\DemoControllerImpl.class

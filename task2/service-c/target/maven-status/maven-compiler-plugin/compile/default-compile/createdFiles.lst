@@ -1,0 +1,6 @@
+com\centime\controller\DemoController.class
+com\centime\controller\DemoControllerImpl.class
+com\centime\aspects\LogMethodParam.class
+com\centime\aspects\LoggingAspect.class
+com\centime\DemoApp.class
+com\centime\config\SwaggerConfig.class
